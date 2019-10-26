@@ -1,0 +1,2 @@
+Respected Sir,
+Due to error in installing gcc that is why i am unable to do task2 
