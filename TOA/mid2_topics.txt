@@ -1,0 +1,15 @@
+Dear Students,
+
+Try to be expert in the following topics for the upcoming MID-II exam. For achieving maximum marks, don't rely ONLY on the questions we did during the classes.
+
+- Kleene's Theorem
+- Complement of Regular languages and FAs
+- Properties of regular languages
+- DFA Minimization
+- Pumping Lemma
+- Mealy and  Moore Machines
+- CFGs
+
+Best of Luck.
+
+ToA Faculty Team
